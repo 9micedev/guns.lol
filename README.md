@@ -3,23 +3,8 @@
 </p>
 
 <p align="center">
-  <i>Luxury code • Cold mind • Heavy silence</i>
-</p>
-
-<p align="center">
   ©︎ <b>Coder</b>: Lua • Python • HTML • CSS • JS <br>
   ©︎ <b>Financier — Investor</b>
-</p>
-
-<br>
-
-<p align="center">
-
-<pre style="background:#000000;color:#0affff;border-radius:12px;padding:18px 28px;font-size:16px;">
-♥︎ AGE: 15            ⚔︎ CITY: MOSCOW
-♠︎ Cry                ✂︎ NAME: Mice ✂︎
-</pre>
-
 </p>
 
 <br>
@@ -43,5 +28,5 @@
 <br>
 
 <p align="center">
-  ⓒ Mice — Professional Developer
+  ⓒ 9micedev — Copyright
 </p>
