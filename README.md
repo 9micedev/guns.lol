@@ -28,7 +28,7 @@
 
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/9micedev/guns.lol/main/icons8-%D0%B4%D0%B2%D0%B0-24.png" height="55" title="Lua">
+  <img src="https://raw.githubusercontent.com/9micedev/guns.lol/main/icons8-%D0%B4%D0%B2%D0%B0-96.png" height="55" title="Lua">
 
   <img src="https://raw.githubusercontent.com/9micedev/guns.lol/main/icons8-%D0%BF%D0%B8%D1%82%D0%BE%D0%BD-50.png" height="55" title="Python">
 
