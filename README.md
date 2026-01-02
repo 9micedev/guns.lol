@@ -1,0 +1,2 @@
+# guns.lol
+guns.lol
